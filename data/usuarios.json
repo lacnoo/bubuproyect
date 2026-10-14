@@ -1,0 +1,15 @@
+{
+  "demo@bubu.com": {
+    "password": "Bubu123!aa"
+  },
+  "jadjadj@gmail.com": {
+    "salt": "6d8a471d423fc5424347b85c75f4eac1",
+    "passwordHash": "1eb0c318733b4bac2f7555f84c836e1a7e2e44b57b97102b30d6eee2c2ca11778b77302dfba2a85636bb31a68a13ecc891f2e4a8146bf5ace249b459bb05d430",
+    "creadoEn": "2026-10-13T22:27:28.371Z"
+  },
+  "samaniego@gmail.com": {
+    "salt": "f9acec3b1295e1f5777c9c0f7278434c",
+    "passwordHash": "57a532d2021aac8e3c77824bba708146e3eb3aed4f34e77673bdf357fef3fefc0fee1df2851e5d2068a30d59a39057dd3b6dd03493f13fd62adfbe373a04456d",
+    "creadoEn": "2026-10-13T22:31:51.835Z"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "bubu",
+  "version": "1.0.0",
+  "description": "Servidor de bubu: sirve la página y guarda los cambios de contraseña",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0",
+    "mongoose": "^9.11.2"
+  }
+}
